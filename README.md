@@ -10,3 +10,4 @@ This project showcases a **Login Screen** with a **Character Animation** of a be
 
 ## Demo
 
+https://github.com/kan15hka/Character_Login/blob/main/bear_login.mp4
