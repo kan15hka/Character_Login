@@ -10,3 +10,7 @@ This project showcases a **Login Screen** with a **Character Animation** of a be
 
 ## Demo
 
+
+
+https://github.com/user-attachments/assets/b329fa55-dcd6-406e-9178-dd7f9c8c5a08
+
